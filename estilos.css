@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor{
+    margin: auto;
+    width:800px;
+    height: 1200px;
+    text-align: center
+}
+
+.encabezado{
+    width: 100%;
+    height: 90px;
+    background: skyblue;
+    margin: 15px;
+    padding-top: 20px;
+}
+
+.articulos{
+    width: 100%;
+    height: 350px;
+    margin: 15px;
+}
+
+.navegador{
+    width: 40%;
+    height: 300px;
+    background: green;
+
+
+    float: left;
+}
+
+.art{
+    float: right;
+    background: red;
+    width: 40%;
+    height: 300px;
+
+}
+
+.
+
+.pie{
+    background: yellow;
+    width: 100%;
+    height: 65px;
+    margin: 15px;
+    padding-top: 20px;
+}
